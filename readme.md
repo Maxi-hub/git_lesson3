@@ -11,3 +11,8 @@
 **git checkout commit_hash** - перемещение по коммитам
 
 **git log** -  история коммитов
+
+
+Hello, my name
+
+Any text is here
